@@ -1,0 +1,60 @@
+.main-buttons {
+    display: inline;
+    height: 30px;
+    size: 50px;
+    align-items: center;
+}
+
+.countup {
+    display: flex;
+    height: 50px;
+    width: 100px;
+    text-indent: 5%;
+    font-size: 18px;
+    padding-bottom: 10px; 
+    margin-bottom: 10px;
+}
+
+.countdown {
+    display: flex;
+    height: 50px;
+    width: 100px;
+    text-indent: 5%;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.reset {
+    display: flex;
+    height: 50px;
+    width: 100px;
+    text-indent: 5%;
+    text-align: center;
+    font-size: 18px;
+    text-indent: 16px;
+    text-align: center;
+    padding-top: 12px
+}
+
+.your-nmbr {
+    margin-top: 20px;
+    display: flex;
+    height: 50px;
+    width: 250px;
+    justify-content: left;
+}
+
+.input {
+    display: flex;
+    margin-left: 5px;
+    justify-content: center;
+}
+
+.number {
+    display: flex;
+    height: 20px;
+    width: 100px;
+    background-color: lightcoral;
+    margin-left: 10px;
+    justify-content: center;
+}
